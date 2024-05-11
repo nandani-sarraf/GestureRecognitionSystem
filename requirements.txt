@@ -1,0 +1,4 @@
+keyboard==0.13.5
+numpy==1.18.1
+opencv-contrib-python==4.5.3.56
+pynput==1.7.3
